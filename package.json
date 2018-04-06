@@ -1,0 +1,23 @@
+{
+  "name": "navigator",
+  "version": "1.0.0",
+  "description": "An application for navigating a semantic knowledge store.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kurt.cagle@gmail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurtcagle/semantical-navigator.git"
+  },
+  "keywords": [
+    "semantics",
+    "navigator"
+  ],
+  "bugs": {
+    "url": "https://github.com/kurtcagle/semantical-navigator/issues"
+  },
+  "homepage": "https://github.com/kurtcagle/semantical-navigator#readme"
+}
